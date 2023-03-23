@@ -8,5 +8,9 @@
 
   Ardından gelen ekrandan MVC Alanı seçeneğini ekleyin
   
-![MVC Alanı](e1.png) 
+![MVC Alanı](e3.png) 
+
+  Alanınıza bir isim verin
+  
+![MVC Alanı](e1.png)
 
